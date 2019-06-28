@@ -1,0 +1,19 @@
+{
+  "name": "seq_baza_komp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pukovnikkostadinovic/seq_baza_komp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pukovnikkostadinovic/seq_baza_komp/issues"
+  },
+  "homepage": "https://github.com/pukovnikkostadinovic/seq_baza_komp#readme"
+}
